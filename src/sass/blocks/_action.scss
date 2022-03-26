@@ -168,9 +168,10 @@
         &-btns {
             margin-left: 67px;
             margin-top: 25px;
-        }
-        &-button {
-            margin-right: 25px;
+            form {
+                display: inline;
+                margin-right: 25px;
+            }
         }
         &-img {
             position: absolute;
